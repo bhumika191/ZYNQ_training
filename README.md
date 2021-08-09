@@ -1,1 +1,1 @@
-# ZYNQ_training
+# ZYNQ_ZC702_Training_Project
